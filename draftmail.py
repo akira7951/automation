@@ -19,26 +19,7 @@ def notify_mail(sub,content):
 
 def draftMai():
     sendList = [
-        'judy.lin@digitimes.com',
-        'tony.chang@digitimes.com',
-        'joyce.siow@digitimes.com',
-        'joe.tsai@digitimes.com',
-        'vyra.wu@digitimes.com',
-        'rod.chang@digitimes.com',
-        'jeff.chi@digitimes.com',
-        'alan.hsu@digitimes.com',
-        'misha.lu@digitimes.com',
-        'zocp@hotmail.com',
-        'zocp@yahoo.com',
-        'zoran.pavlovski@gmail.com',
-        'giayucyt@gmail.com',
-        'pets5532@hotmail.com',
-        'pets5532@yahoo.com',
-        'book.fu@digitimes.com',
-        'chloe.tu@digitimes.com',
-        'irene.cheng@digitimes.com',
-        'jay.liang@digitimes.com',
-        'zoran@digitimes.com',
+        # hide
         'lawrence.hu@digitimes.com'
     ]
     
